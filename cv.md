@@ -28,7 +28,7 @@
 
 
 - HTML&CSS;
-- VS Code, GitHub
+- VS Code, GitHub;
 
 
 ***
